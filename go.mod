@@ -1,4 +1,4 @@
-module github.com/AbhaySingh002/lamb-launch
+module github.com/AbhaySingh002/EchoMailer
 
 go 1.25.0
 

@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/AbhaySingh002/lamb-launch/config"
+	"github.com/AbhaySingh002/EchoMailer/config"
 )
 
 type Receiver struct{
