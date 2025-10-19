@@ -1,0 +1,12 @@
+smtpDefinition:
+  host: localhost
+  port: 1025
+  username: your_username
+  password: your_password
+  from_email: sender@example.com
+  from_name: Email Dispatcher
+
+emailDefinition:
+  subject_prefix: "[Email Dispatcher] "
+  retry_count: 3
+  timeout_seconds: 10
